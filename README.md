@@ -1,4 +1,4 @@
-## Hi there, I'm Henrique 👋
+## Hello World, I'm Henrique 👋
 
 - 👨‍💻 I’m currently working on web applications and automation projects.
 - 📚 I’m currently learning advanced JavaScript, databases, and UI/UX improvements.
