@@ -2,7 +2,7 @@
 ## Junior Web Developer | HTML • CSS • JavaScript • SQL
 
 - 👨‍💻 I’m currently working on web applications and automation projects.
-- 📚 I’m currently learning advanced JavaScript, databases, JAVA and UI/UX improvements.
+- 📚 I’m currently learning advanced JavaScript, Databases, JAVA and UI/UX improvements.
 - 🤝 I’m looking to collaborate on web systems, automation tools, and business solutions.
 - 🛠️ I’m looking for help with best practices in full-stack development and scalable architecture.
 - 💬 Ask me about HTML, CSS, JavaScript, SQL, automation, and responsive interfaces.
