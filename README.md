@@ -1,4 +1,4 @@
-# Hi 👋, I'm Henrique César
+# Hi 👋, I'm Henrique Cézar
 ## Junior Web Developer | HTML • CSS • JavaScript • SQL
 
 - 👨‍💻 I’m currently working on web applications and automation projects.
