@@ -28,7 +28,7 @@
 
 ## 🧠 What I do
 
-- 🖥️ System support and computer technician work learned with the EDUARDO
+- 🖥️ System support and computer technician work.
 - 🎓 ADS student
 - ☕ Learning Java and web development
 - 📘 Improving my English
